@@ -8,4 +8,5 @@ The idea is to get real feel how successful a country is in realistic circumstan
 
 ## This is work in progress
 
-## athlete_events.7z should be unpacked (it is larger then size limitation)
+## athlete_events.7z should be unpacked
+Since size of athlete_events.csv is above git hub limitatation it needed to be compressed.
