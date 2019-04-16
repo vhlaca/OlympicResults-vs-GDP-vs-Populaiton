@@ -2,7 +2,7 @@
 The goal is to compare results on olympic games from 1994 till 2016 with parameters like:
 - number of participants
 - GDP
-- number of inhabitants
+- population of a country
 
 The idea is to get real feel how successful a country is in realistic circumstances.
 
